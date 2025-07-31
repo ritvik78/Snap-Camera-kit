@@ -22,7 +22,7 @@
         "description": "ByCameraOrder"
     },
     "renderOutput": "1:1",
-    "previewOutput": "1:1",
+    "previewOutput": "-1:-1",
     "overlayOutput": "-1:-1",
     "logstreamingsystem": {
         "mobileDataStreamingSystemId": ""
