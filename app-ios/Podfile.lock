@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.2)
+  - SCSDKCameraKit (1.26.1)
+  - SCSDKCameraKitReferenceSwiftUI (1.26.1):
+    - SCSDKCameraKitReferenceUI (~> 1.26.1)
+  - SCSDKCameraKitReferenceUI (1.26.1):
+    - SCSDKCameraKit (~> 1.26.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - SCSDKCameraKit (= 1.26.1)
+  - SCSDKCameraKitReferenceSwiftUI (= 1.26.1)
+  - SCSDKCameraKitReferenceUI (= 1.26.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SCSDKCameraKit
+    - SCSDKCameraKitReferenceSwiftUI
+    - SCSDKCameraKitReferenceUI
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  SCSDKCameraKit: 3ebeb28638f7d478257caa3102e0edc987eb1a63
+  SCSDKCameraKitReferenceSwiftUI: 09e35e93927ba3717b6f3c191cc05c29baf66c09
+  SCSDKCameraKitReferenceUI: 9013428085da7532f2eb94204dc06882072b6081
+
+PODFILE CHECKSUM: fa2bfbcbcae72546a04f45428258f58a41c54cd1
+
+COCOAPODS: 1.15.0
